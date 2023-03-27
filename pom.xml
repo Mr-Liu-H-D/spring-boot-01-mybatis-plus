@@ -9,10 +9,10 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>com.example</groupId>
-    <artifactId>springbootapplication</artifactId>
+    <artifactId>spring-boot-01-mybatis-plus</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>com.dong</name>
-    <description>com.dong</description>
+    <name>spring-boot-01-mybatis-plus</name>
+    <description>spring-boot-01-mybatis-plus</description>
     <properties>
         <java.version>8</java.version>
     </properties>
