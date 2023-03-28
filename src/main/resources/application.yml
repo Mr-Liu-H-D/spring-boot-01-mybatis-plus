@@ -2,6 +2,8 @@ server:
   port: 8090
 spring:
   datasource:
-    url:
-    username:
-    password:
+    url: jdbc:mysql://localhost:3306/test?useSSL=false
+    username: root
+    password: LHD0420
+    driver-class-name: com.mysql.jdbc.Driver
+#    bj-cdb-7z1ua5oi.sql.tencentcdb.com:63910
